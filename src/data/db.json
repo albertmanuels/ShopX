@@ -532,7 +532,7 @@
       "title": "Sleek Smartwatch with Vibrant Display",
       "price": 16,
       "quantity": 1,
-      "image":  "https://i.imgur.com/LGk9Jn2.jpeg"
+      "image": "https://i.imgur.com/LGk9Jn2.jpeg"
     }
   ],
   "notifications": [
@@ -544,8 +544,8 @@
     },
     {
       "id": 2,
-      "title": "Payment Received",  
-      "message": "Your payment has been successfully received.",  
+      "title": "Payment Received",
+      "message": "Your payment has been successfully received.",
       "timestamp": "4 hours ago"
     },
     {
@@ -556,6 +556,42 @@
     },
     {
       "id": 4,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    },
+    {
+      "id": 5,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    },
+    {
+      "id": 6,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    },
+    {
+      "id": 7,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    },
+    {
+      "id": 8,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    },
+    {
+      "id": 9,
+      "title": "Order Cancelled",
+      "message": "Your order has been successfully cancelled.",
+      "timestamp": "5 days ago"
+    },
+    {
+      "id": 10,
       "title": "Order Cancelled",
       "message": "Your order has been successfully cancelled.",
       "timestamp": "5 days ago"
