@@ -13,7 +13,7 @@ const SignInScreen = (props: Props) => {
     <>
       <Stack.Screen
         options={{
-          headerTitle: "Sign Up",
+          headerTitle: "Sign In",
           headerRight: () => (
             <TouchableOpacity onPress={() => router.back()}>
               <Ionicons name="close" size={24} color={Colors.black} />

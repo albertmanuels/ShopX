@@ -9,7 +9,7 @@ import React from "react";
 import { Colors } from "@/constants/Colors";
 import { icon } from "@/constants/Icon";
 
-type TabBarLabel = ({
+type TabBarLabelFn = ({
   focused,
   color,
   position,
@@ -25,7 +25,7 @@ type Props = {
   onPress: PressableProps["onPress"];
   onLongPress: PressableProps["onLongPress"];
   isFocused: boolean;
-  label: string | TabBarLabel;
+  label: string | TabBarLabelFn;
   routeName: string;
 };
 
